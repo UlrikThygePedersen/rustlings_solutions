@@ -11,7 +11,3 @@ rust-project.json
 !.vscode/extensions.json
 *.iml
 *.o
-
-.replit
-.Cargo.lock
-.Cargo.toml
