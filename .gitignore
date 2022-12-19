@@ -15,4 +15,4 @@ rust-project.json
 .github
 .vscode
 src
-target
+/target
