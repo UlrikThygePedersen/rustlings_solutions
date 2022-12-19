@@ -1,2 +1,0 @@
-# rustlings
-rustlings exercises
