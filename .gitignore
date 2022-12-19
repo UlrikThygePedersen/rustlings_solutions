@@ -12,7 +12,6 @@ rust-project.json
 *.iml
 *.o
 
-.github
-.vscode
-src
-/target
+.replit
+.Cargo.lock
+.Cargo.toml
